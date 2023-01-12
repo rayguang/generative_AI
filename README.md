@@ -1,4 +1,4 @@
-# generative_AI
+# Paper and code for Generative AI
 A collection of research and code related to generative AI
 
 
